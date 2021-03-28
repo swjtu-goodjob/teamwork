@@ -69,7 +69,7 @@ void loop() {
 
 第二次折腾开始了。下发的工具包中有一块OLED屏幕，通过网上搜索可知这块0.91寸的屏幕使用的是SSD1306驱动，首先通过工具-管理库进入到库管理器，搜索关键词ESP32和SSD1306，找到对应驱动并安装
 
-![Snipaste_2021-03-28_21-51-05.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/Snipaste_2021-03-28_21-51-05.png)
+![Snipaste_2021-03-28_21-51-05](https://user-images.githubusercontent.com/37738631/112756463-dd841300-9017-11eb-83a7-4c8b2f3d4aed.png)
 
 参考此模块的[官方文档](https://github.com/ThingPulse/esp8266-oled-ssd1306)编写代码
 
