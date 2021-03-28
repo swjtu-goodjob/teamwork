@@ -15,7 +15,7 @@
 
 从[Arduino官网](https://www.arduino.cc/en/software)下载并安装Arduino IDE（本次使用版本1.8.13）
 
-![屏幕截图 2021-03-28 175817.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/屏幕截图 2021-03-28 175817.png)
+![arduino-1.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/arduino-1.png)
 
 ### 2. 在Arduino中安装ESP32开发环境
 
