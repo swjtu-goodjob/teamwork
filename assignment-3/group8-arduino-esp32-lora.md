@@ -11,7 +11,7 @@
 
 ### Arduino开发环境
 
-安装Arduino+ESP32开发板管理器，从库中安装`LoraNow`、`DallasTemperature`及[SSD1306驱动](https://github.com/ThingPulse/esp8266-oled-ssd1306)
+安装Arduino+ESP32开发板管理器，从库中安装`LoraNow`、`DallasTemperature`
 
 详见assignment2
 
