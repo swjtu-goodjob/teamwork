@@ -27,7 +27,7 @@
 
 对于网关，按照下图连接
 
-**![24b95ba4-969b-45b7-8277-8479c4371198.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/24b95ba4-969b-45b7-8277-8479c4371198.png)**
+![24b95ba4-969b-45b7-8277-8479c4371198.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/24b95ba4-969b-45b7-8277-8479c4371198.png)
 
 对于节点，按照下图连接
 
@@ -35,9 +35,9 @@
 
 成品：
 
-![IMG_20210415_190602.jpg](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/IMG_20210415_190602.jpg)
+![IMG_20210415_190602](https://user-images.githubusercontent.com/37738631/114878337-bbb9c700-9e32-11eb-8630-71047da7cf17.jpg)
 
-**![IMG_20210415_190607.jpg](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/IMG_20210415_190607.jpg)**
+![IMG_20210415_190607](https://user-images.githubusercontent.com/37738631/114878356-bfe5e480-9e32-11eb-9240-cbac568f92d8.jpg)
 
 ## 上传代码
 
@@ -272,9 +272,9 @@ void onSleep()
 
 ## 运行测试
 
-![IMG_20210415_190602](https://user-images.githubusercontent.com/37738631/114878337-bbb9c700-9e32-11eb-8630-71047da7cf17.jpg)
+![Snipaste_2021-04-15_19-08-34.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/Snipaste_2021-04-15_19-08-34.png)
 
-![IMG_20210415_190607](https://user-images.githubusercontent.com/37738631/114878356-bfe5e480-9e32-11eb-9240-cbac568f92d8.jpg)
+![Snipaste_2021-04-15_19-08-58.png](https://xqhma.oss-cn-hangzhou.aliyuncs.com/image/Snipaste_2021-04-15_19-08-58.png)
 
 ## 问题与反思
 
